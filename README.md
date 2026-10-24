@@ -6,7 +6,7 @@ Streamlit web app that predicts a diamond's price using an **Extra Trees** model
 5 algorithms (Ridge, Lasso, AdaBoost, Extra Trees, MLP) with **10-fold cross validation** on the full
 diamonds dataset (53,775 unique diamonds). Cross-validation RMSE ≈ **$531**.
 
-Live app: https://hamna-diamond-price.streamlit.app
+Live app: https://diamond-price-predictor-fz3kugh4juwbstvczcrerd.streamlit.app
 
 ## Run locally
 ```bash
